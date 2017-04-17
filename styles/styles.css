@@ -1,0 +1,33 @@
+* {
+  box-sizing: border-box;
+}
+
+body {
+  font-size: 0;
+}
+
+footer {
+  font-size: medium;
+  font-family: monospace;
+}
+
+#app-container {
+  font-size: medium;
+  font-family: monospace;
+}
+
+.boxx {
+  display: inline-block;
+}
+
+.splash {
+  background-color: cornflowerblue;
+}
+
+.direct {
+  background-color: forestgreen;
+}
+
+.meat {
+  background-color: crimson;
+}
