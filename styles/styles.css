@@ -14,10 +14,20 @@ footer {
 #app-container {
   font-size: medium;
   font-family: monospace;
+  height: 90vh;
 }
 
 .boxx {
   display: inline-block;
+  padding: 10px;
+  height: 80%;
+}
+
+.crate {
+  display: block;
+  height: 15%;
+  padding: 10px;
+  margin-bottom:10px;
 }
 
 .splash {
@@ -29,5 +39,6 @@ footer {
 }
 
 .meat {
-  background-color: crimson;
+  background-color: firebrick;
+  width: 85%;
 }
