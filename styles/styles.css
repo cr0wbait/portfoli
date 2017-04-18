@@ -11,6 +11,16 @@ footer {
   font-family: monospace;
 }
 
+a {
+  text-decoration: none;
+  color: inherit;
+}
+
+a:hover{
+  text-decoration: underline;
+  color: white;
+}
+
 #app-container {
   font-size: medium;
   font-family: monospace;
@@ -21,6 +31,7 @@ footer {
   display: inline-block;
   padding: 10px;
   height: 80%;
+  vertical-align: top;
 }
 
 .crate {
@@ -30,15 +41,26 @@ footer {
   margin-bottom:10px;
 }
 
+._zone{
+  border: 1px solid black;
+}
+
 .splash {
-  background-color: cornflowerblue;
+  background-image: url('../images/GA_beach.jpg');
+  background-size: cover;
 }
 
 .direct {
-  background-color: forestgreen;
+  background-color: firebrick;
+  width: 15%;
+  height: 105px;
+}
+
+.directions {
+  list-style: none;
 }
 
 .meat {
   background-color: firebrick;
-  width: 85%;
+  width: 80%;
 }
