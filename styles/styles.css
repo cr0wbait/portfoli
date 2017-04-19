@@ -4,6 +4,7 @@
 
 body {
   font-size: 0;
+  background-color: azure;
 }
 
 footer {
@@ -63,4 +64,27 @@ a:hover{
 .meat {
   background-color: firebrick;
   width: 80%;
+}
+
+.pane {
+  display: inline-block;
+  vertical-align: top;
+  height: 525px;
+}
+
+.face {
+
+}
+
+.who {
+  width: 61%;
+  padding: 5%;
+  line-height: 2;
+  font-size: 16px;
+  background-color: linen;
+}
+
+.me {
+  max-height: 525px;
+  max-width: 395px;
 }
