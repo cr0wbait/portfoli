@@ -52,7 +52,7 @@ a:hover{
 }
 
 .direct {
-  background-color: firebrick;
+  background-color: skyblue;
   width: 15%;
   height: 105px;
 }
@@ -62,7 +62,7 @@ a:hover{
 }
 
 .meat {
-  background-color: firebrick;
+  background-color: skyblue;
   width: 80%;
 }
 
@@ -77,7 +77,7 @@ a:hover{
   padding: 5%;
   line-height: 2;
   font-size: 16px;
-  background-color: linen;
+  background-color: snow;
 }
 
 .me {
